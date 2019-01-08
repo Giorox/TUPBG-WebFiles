@@ -1,0 +1,5 @@
+ErrorDocument 400 /HTTPDirectives/nice400.php
+ErrorDocument 401 /HTTPDirectives/nice401.php
+ErrorDocument 403 /HTTPDirectives/nice403.php
+ErrorDocument 404 /HTTPDirectives/nice404.php
+ErrorDocument 500 /HTTPDirectives/nice500.php
