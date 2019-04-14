@@ -107,7 +107,7 @@ class Course
 
   public static function getById( $courseID ) {
     $conn = new PDO( DB_DSN, DB_USERNAME, DB_PASSWORD );
-    $sql = "SELECT *, UNIX_TIMESTAMP(courseStartDate) AS courseStartDate FROM courses WHERE courseID = :courseID";
+    $sql = "SELECT *, UNIX_TIMESTAMP(courseStartDate) AS courseStartDate, UNIX_TIMESTAMP(courseEndDate) AS courseEndDate FROM courses WHERE courseID = :courseID";
     $st = $conn->prepare( $sql );
     $st->bindValue( ":courseID", $courseID, PDO::PARAM_INT );
     $st->execute();

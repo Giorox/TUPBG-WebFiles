@@ -1,9 +1,9 @@
 <?php
 ini_set( "display_errors", true );
 date_default_timezone_set( "America/Sao_Paulo" );  // http://www.php.net/manual/en/timezones.php
-define( "DB_DSN", "mysql:host=localhost;dbname=web_cms_db" );
-define( "DB_USERNAME", "root" );
-define( "DB_PASSWORD", "" );
+define( "DB_DSN", "mysql:host=localhost;dbname=tupbgo33_1087164" );
+define( "DB_USERNAME", "tupbgo33_admin" );
+define( "DB_PASSWORD", "paibenedito2017" );
 define( "CLASS_PATH", "classes" );
 define( "TEMPLATE_PATH", "templates" );
 define( "HOMEPAGE_NUM_ARTICLES", 3 );

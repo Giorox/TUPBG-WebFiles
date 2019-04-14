@@ -30,6 +30,9 @@
 			<label for="conteudo">Conteúdo</label>
 			<textarea class="form-control" name="content" id="content" placeholder="Conteúdo da notícia" maxlength="100000" rows="6"><?php echo htmlspecialchars( $results3['news']->content )?></textarea>
 		</div>
+<script type="text/javascript">
+				CKEDITOR.replace( 'content' );
+			</script>
 		
 		<?php if ( $results3['news'] && $imagePath = $results3['news']->getImagePath() ) { ?>
 			<div>

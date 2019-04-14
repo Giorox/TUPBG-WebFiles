@@ -26,8 +26,8 @@ $index = 0;
 							<?php } $index = $index + 1; ?>
 								<img class="d-block w-100" src="<?php echo ($news->getImagePath( IMG_TYPE_FULLSIZE )) ?>"/>
 								<div class="carousel-caption d-none d-md-block">
-									<h5><?php echo htmlspecialchars($news->title) ?></h5>
-									<p><?php echo htmlspecialchars($news->content) ?></p>
+									<h5><?php echo $news->title ?></h5>
+									<p><?php echo $news->content ?></p>
 								</div>
 							</div>
 						<?php } $index = 0; ?>

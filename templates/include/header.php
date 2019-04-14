@@ -123,25 +123,25 @@
 								<a class="dropdown-item" href="AUmbanda_Historia.php">A História da Umbanda</a>
 								<a class="dropdown-item" href="AUmbanda_OqueE.php">A Umbanda</a>
 								<a class="dropdown-item" href="AUmbanda_ACarta.php">A Carta Magna da Umbanda</a>
-								<a class="dropdown-item" href="#">Os Orixás</a>
-								<a class="dropdown-item" href="#">Os Guias Espirituais</a>
+								<a class="dropdown-item" href="AUmbanda_OANJO.php">Os Anjos da Guarda</a>
+                                                                <a class="dropdown-item" href="#">Os Orixás</a>                                                           
                                                                 <a class="dropdown-item" href="AUmbanda_ASPRINCIPAIS.php">As Linhas Principais</a>
                                                                 <a class="dropdown-item" href="AUmbanda_ATRANSITORIA.php">As Linhas Transitórias</a>
-                                                                <a class="dropdown-item" href="#">Os Guardiões</a>
-                                                                <a class="dropdown-item" href="#">Os Ciganos</a>
-								<a class="dropdown-item" href="#">O Corpo Mediúnico</a>
+                                                                <a class="dropdown-item" href="AUmbanda_OSGUARDIOES.php">Os Guardiões</a>
+                                                                <a class="dropdown-item" href="AUmbanda_SEUZE.php">Seu Zé Pelintra</a>
+                                                                <a class="dropdown-item" href="AUmbanda_OSCIGANOS.php">Os Ciganos</a>
 								
 							</div>
 							<div class="col-sm-6">
+                                                                <a class="dropdown-item" href="#">O Corpo Mediúnico</a>                                                                
                                                                 <a class="dropdown-item" href="AUmbanda_TERREIRO.php">O Terreiro</a>
 								<a class="dropdown-item" href="AUmbanda_ALiturgia.php">A Liturgia da Umbanda</a>								
                                                                 <a class="dropdown-item" href="AUmbanda_OMUNDO.php">O Mundo Que Não Vemos</a>
 								<a class="dropdown-item" href="AUmbanda_AMEDIUNIDADE.php">A Mediunidade</a>
                                                                 <a class="dropdown-item" href="AUmbanda_ODESENVOLVIMENTO.php">O Desenvolvimento <br>Mediúnico</a>
-								<a class="dropdown-item" href="#">As Guias de Contas</a>
+								<a class="dropdown-item" href="AUmbanda_ASGUIAS.php">As Guias de Contas</a>
 								<a class="dropdown-item" href="AUmbanda_preparacao.php">A Preparação para os <br>Trabalhos</a>
-								<a class="dropdown-item" href="#">A Egrégora</a>
-							</div>
+								</div>
 						</div>
 				</div>
 			</li>
