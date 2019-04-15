@@ -1,0 +1,62 @@
+<?php $results['pageTitle'] = "Oxumarê | Tenda de Umbanda Pai Benedito da Guiné";
+include "templates/include/header.php" ?>
+
+    <ul class="col-sm-12" id="headlines">
+		<!-- Blog Post -->
+		<br>
+		<br>
+        <div class="card mb-4">
+			<div class="card-body">
+			<img class="card-img-top" src="images/oxumare.jpg" alt="Card image cap">
+				<h2 class="card-title"><center>OXUMARÊ</center></h2>
+					<p class="card-text">
+						<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Oxumar&ecirc; &eacute; irm&atilde;o de Obalua&ecirc; e o filho mais novo e preferido de Nan&atilde;. Tal qual sua m&atilde;e, &eacute; uma entidade que existe desde os prim&oacute;rdios, sendo atribu&iacute;do a Oxumar&ecirc; a reuni&atilde;o da mat&eacute;ria para a forma&ccedil;&atilde;o e amoldamento do planeta, o que mostra sua rela&ccedil;&atilde;o com a Terra e seus ancestrais. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Sustenta o Universo, controla o movimento dos astros e dos oceanos. Oxumar&ecirc; tem como representa&ccedil;&atilde;o a grande cobra que, rastejando pelo mundo, moldou os vales e as montanhas. E a cobra que engole a pr&oacute;pria cauda, representando o movimento infinito e tamb&eacute;m o in&iacute;cio, o meio e o fim. Simboliza a atividade, a continuidade e a perman&ecirc;ncia. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">A comunica&ccedil;&atilde;o entre o c&eacute;u e a terra tamb&eacute;m &eacute; assegurada por Oxumar&ecirc;. Leva a &aacute;gua para o c&eacute;u em forma de vapor para que a chuva possa fecundar a terra e, dessa forma, a natureza possa manter a sua vitalidade. Sua comunica&ccedil;&atilde;o com o mundo &eacute; feita atrav&eacute;s do arco-&iacute;ris, a grande cobra, fazendo a grande liga&ccedil;&atilde;o entre o mundo espiritual e o f&iacute;sico. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Tudo nele &eacute; repetitivo e met&oacute;dico, por&eacute;m em cont&iacute;nuo movimento. Como o sol, a lua e os corpos celestes que executam sempre um movimento perfeito, sem se deixar parar. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Representa os movimentos de crescimento e totaliza&ccedil;&atilde;o, mas tamb&eacute;m de eterno retorno do cosmos. Se por acaso esse movimento acabar, a vida tamb&eacute;m acaba. Essa &eacute; a import&acirc;ncia da for&ccedil;a de Oxumar&ecirc;. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">No ciclo &quot;vida e morte&quot;, ele tamb&eacute;m est&aacute; presente, e seu s&iacute;mbolo mais forte &eacute; o da cobra mordendo a pr&oacute;pria cauda, numa atitude que representa o ciclo vital: vida, morte e renascimento. Enrola-se tamb&eacute;m em torno da terra para impedi-la de se desagregar. Acredita-se que se perdesse as for&ccedil;as seria o fim do mundo. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">A marca mais evidente de Oxumar&ecirc; &eacute; o arco-&iacute;ris, de quem &eacute; senhor. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">N&atilde;o se pode dizer que &eacute; um Orix&aacute; masculino e nem feminino, pois encerra dentro de si os dois g&ecirc;neros. Seis meses &eacute; macho e no outro semestre &eacute; f&ecirc;mea. Por isso mesmo a dualidade &eacute; o conceito b&aacute;sico ligado a seus cultos e a seu arqu&eacute;tipo. Essa dualidade descreve bem o Orix&aacute;, bem e mal, amor e &oacute;dio, doce e amargo, masculino e feminino, entre tantas outras associa&ccedil;&otilde;es. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Nos seis meses em que &eacute; uma divindade masculina, &eacute; representado pelo arco-&iacute;ris e tem o poder de regular as chuvas e as secas. Ao mesmo tempo, a pr&oacute;pria exist&ecirc;ncia do arco-&iacute;ris &eacute; a prova de que a &aacute;gua est&aacute; sendo levada para os c&eacute;us em forma de vapor, onde se aglutinar&aacute; em forma de nuvem, passar&aacute; por nova transforma&ccedil;&atilde;o qu&iacute;mica, recuperando o estado l&iacute;quido, e voltar&aacute; &agrave; terra sob essa forma, recome&ccedil;ando tudo de novo: a evapora&ccedil;&atilde;o da &aacute;gua, novas nuvens, novas chuvas, etc. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Nos seis meses subsequentes, o Orix&aacute; assume forma feminina e se aproxima de todos os opostos do que representou no semestre anterior. &Eacute; ent&atilde;o uma cobra, obrigado a se arrastar agilmente tanto na terra como na &aacute;gua, deixando as alturas para viver sempre junto ao ch&atilde;o, perdendo em transcend&ecirc;ncia e ganhando em materialismo. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Para o homem branco cat&oacute;lico foi f&aacute;cil ver em Oxumar&ecirc;, o deus que tamb&eacute;m era uma cobra, a representa&ccedil;&atilde;o do mal, pois associada rapidamente com sua cultura crist&atilde;, a cobra ocupava lugar de destaque, como aquela que levou o homem a ser expulso do para&iacute;so. Isso fez com que o culto desse Orix&aacute; sofresse muito preconceito como a figura de Exu. Entretanto na &Aacute;frica e nas culturas orientais, a cobra n&atilde;o tem a mesma conota&ccedil;&atilde;o. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Pierre Verger acrescenta que Oxumar&ecirc; est&aacute; associado ao misterioso, a tudo que implica o conceito de determina&ccedil;&atilde;o al&eacute;m dos poderes dos homens, do destino, enfim: &Eacute; o senhor de tudo o que &eacute; alongado. O cord&atilde;o umbilical, que est&aacute; sob seu controle, &eacute; enterrado geralmente com a placenta, sob uma palmeira que se torna propriedade do rec&eacute;m-nascido, cuja sa&uacute;de depender&aacute; da boa conserva&ccedil;&atilde;o dessa &aacute;rvore. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Olodumar&eacute;, o Deus supremo, sofria de um mal nas vistas, e tamb&eacute;m mandou cham&aacute;-lo. Oxumar&ecirc; foi at&eacute; ele e o curou. Olodumar&eacute; ficou t&atilde;o agradecido que n&atilde;o quis mais se separar dele. Desde ent&atilde;o Oxumar&ecirc; reside no c&eacute;u e s&oacute; de tempos em tempos tem permiss&atilde;o para pisar na terra. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Sua sauda&ccedil;&atilde;o &eacute; &ldquo;Arobo Bo Yi&rdquo; e significa aquele que vai, d&aacute; a volta e continua. Era solicitado para atrair fortuna, renova&ccedil;&atilde;o e transforma&ccedil;&atilde;o. Suas atribui&ccedil;&otilde;es foram absorvidas por v&aacute;rios Orix&aacute;s como Exu, Obalua&ecirc; e Ibeji, al&eacute;m das Iab&aacute;s. </span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:14.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Sincretizado com S&atilde;o Bartolomeu, &eacute; comemorado em 24 de agosto.</span></span></span></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:10.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Fontes: </span></span></span></span></span></p>
+
+<li style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:10.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Marcio Kain, Curso de Teologia da Umbanda;</span></span></span></span></span></li>
+
+<li style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:10.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Fl&aacute;vio Penteado, Povo de Aruanda;</span></span></span></span></span></li>
+
+<li style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:10.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Ademir Jr, Teologia de Umbanda e suas dimens&otilde;es;</span></span></span></span></span></li>
+
+<li style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:black"><span style="font-size:10.0pt"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Lurdes Vieira, Manual Doutrin&aacute;rio, Ritualistico e Comportamental Umbandista</span></span></span></span></span></li>
+
+					</p>
+            </div>
+            <div class="card-footer text-muted">
+				Atualizado pela última vez em15/04/2019
+				<br>
+            </div>
+        </div>
+    </ul>
+
+<?php include "templates/include/footer.php" ?>

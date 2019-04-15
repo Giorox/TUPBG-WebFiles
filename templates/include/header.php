@@ -124,7 +124,7 @@
 								<a class="dropdown-item" href="AUmbanda_OqueE.php">A Umbanda</a>
 								<a class="dropdown-item" href="AUmbanda_ACarta.php">A Carta Magna da Umbanda</a>
 								<a class="dropdown-item" href="AUmbanda_OANJO.php">Os Anjos da Guarda</a>
-                                                                <a class="dropdown-item" href="#">Os Orixás</a>                                                           
+                                                                <a class="dropdown-item" href="AUmbanda_OSORIXAS.php">Os Orixás</a>                                                           
                                                                 <a class="dropdown-item" href="AUmbanda_ASPRINCIPAIS.php">As Linhas Principais</a>
                                                                 <a class="dropdown-item" href="AUmbanda_ATRANSITORIA.php">As Linhas Transitórias</a>
                                                                 <a class="dropdown-item" href="AUmbanda_OSGUARDIOES.php">Os Guardiões</a>
