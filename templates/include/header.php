@@ -64,6 +64,11 @@
 	<link rel="icon" type="image/png" href="images/favicon.png">
 
     <title><?php echo htmlspecialchars( $results['pageTitle'] )?></title>
+	<meta name="description" content="<?php echo $results['article']->summary?>">
+	<meta property="og:image" content="<?php echo $imagePath?>">
+	<meta property="og:title" content="<?php echo $results['article']->title?>" />
+	<meta property="og:description" content="<?php echo $results['article']->summary?>">
+	<meta property="og:type" content="article" />
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
