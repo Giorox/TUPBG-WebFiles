@@ -57,8 +57,8 @@
           <div class="card my-4">
             <h5 class="card-header">Redes Sociais da Tenda</h5>
             <div class="card-body">
-             <a href="https://www.facebook.com/tendapaibeneditodaguine/" class="btn btn-light" role="button" target = "_blank"><i class="fab fa-facebook-f"></i> Facebook</a>
-			  <a href="https://www.instagram.com/tenda_pai_benedito_da_guine/" class="btn btn-light" role="button" target = "_blank"><i class="fab fa-instagram"></i> Instagram</a>
+             <a href="https://www.facebook.com/tendapaibeneditodaguine/" class="btn btn-light mb-2" role="button" target = "_blank"><i class="fab fa-facebook-f"></i> Facebook</a>
+			  <a href="https://www.instagram.com/tenda_pai_benedito_da_guine/" class="btn btn-light mb-2" role="button" target = "_blank"><i class="fab fa-instagram"></i> Instagram</a>
 			  <a href="https://www.youtube.com/channel/UCazgfGFLjywam9eZ2RtwRpA" class="btn btn-light" role="button" target = "_blank"><i class="fab fa-youtube"></i> Youtube</a></div>
           </div>
 

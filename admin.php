@@ -303,6 +303,20 @@ function deleteArticle() {
 
   $article->deleteImages();
   $article->delete();
+    $drop_query = "ALTER TABLE articles DROP COLUMN id;";
+  $setincrement_query = "ALTER TABLE articles AUTO_INCREMENT = 1;";
+  $reincludecolumn_query = "ALTER TABLE articles ADD id int UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY FIRST;";
+  $conn = new PDO( DB_DSN, DB_USERNAME, DB_PASSWORD );
+  
+  $st = $conn->prepare ($drop_query);
+  $st->execute();
+  
+  $st = $conn->prepare ( $setincrement_query );
+  $st->execute();
+  
+  $st = $conn->prepare ( $reincludecolumn_query );
+  $st->execute();
+  
   header( "Location: admin.php?status=articleDeleted" );
 }
 

@@ -1,5 +1,11 @@
 <?php include "templates/include/header.php" ?>
-
+<head>
+	<title><?php echo $results['article']->title?></title>
+	<meta name="description" content="<?php echo $results['article']->summary?>">
+	<meta property="og:title" content="<?php echo $results['article']->title?>" />
+	<meta property="og:description" content="<?php echo $results['article']->summary?>">
+	<meta property="og:type" content="article" />
+</head>
 <br>
 <br>
 <div class="col-sm-12" class="card mb-4">
