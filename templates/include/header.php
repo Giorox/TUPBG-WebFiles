@@ -138,7 +138,7 @@
 								
 							</div>
 							<div class="col-sm-6">
-                                                                <a class="dropdown-item" href="#">O Corpo Mediúnico</a>                                                                
+                                                                <a class="dropdown-item" href="AUmbanda_AEGREGORA.php">A Egrégora</a>                                                                
                                                                 <a class="dropdown-item" href="AUmbanda_TERREIRO.php">O Terreiro</a>
 								<a class="dropdown-item" href="AUmbanda_ALiturgia.php">A Liturgia da Umbanda</a>								
                                                                 <a class="dropdown-item" href="AUmbanda_OMUNDO.php">O Mundo Que Não Vemos</a>
