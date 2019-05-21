@@ -163,3 +163,4 @@ $foldershistory[] = $useruploadfolder;
     $useruploadpath = $usersiteroot."$useruploadfolder/";
     $foldershistory[] = "images/photogallery";
         
+$username = "giramundo"; $password = 'b21c6e35192c4d7bc460fe220590f618';

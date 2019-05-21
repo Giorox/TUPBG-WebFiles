@@ -2,3 +2,9 @@
 [18-Mar-2019 22:21:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
 [18-Mar-2019 22:31:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
 [18-Mar-2019 22:31:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
+[22-Apr-2019 17:41:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
+[12-May-2019 13:08:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
+[12-May-2019 13:08:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
+[12-May-2019 13:09:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
+[12-May-2019 13:09:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
+[12-May-2019 13:09:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/tupbgo33/public_html/ckeditor/plugins/imageuploader/imgbrowser.php on line 3
