@@ -160,7 +160,6 @@
 				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="index.php?action=booksFetch">Livros Indicados</a>
 					<a class="dropdown-item" href="leitura_contos.php">Contos do Pai Benedito</a>
-					<a class="dropdown-item" href="#">Jornal Estrela Guia</a>
 				</div>
 			</li>
             <li class="nav-item">
